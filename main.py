@@ -134,7 +134,7 @@ async def get_model_name(simple_name: str = Query()):
     else:
         price=price_unit=None
 
-    get_model_id_json = requests.get(f'http://47.251.15.52:8000/crawler/get-model-id?name={generate_modelname}')
+    get_model_id_json = requests.get(f'<替换为你的接口>?name={generate_modelname}')
     model_id_data = get_model_id_json.json()
     response = {
         'status':model_id_data.get('status', None),
