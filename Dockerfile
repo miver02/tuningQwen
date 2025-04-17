@@ -16,7 +16,6 @@ VOLUME ["/app/datasets/final_model"]
 # 复制项目文件
 COPY . /app/
 
-ENV getmodelid_url = 'http://47.251.15.52:8000/crawler/get-model-id'
 # 暴露端口
 EXPOSE 8000
 
