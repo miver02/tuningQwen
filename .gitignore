@@ -1,7 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 .idea/
-!final_model/adapter_config.json
 base_model/
 final_model/
 *.py[cod]
