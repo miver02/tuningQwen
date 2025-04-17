@@ -1,0 +1,725 @@
+{"input": "m50s 26w 124t gtd 1020u $1020.0", "output": "MicroBT Whatsminer M50S - 124.0th/t $1020.0"}
+{"input": "m50 112t  660u $660.0", "output": "MicroBT Whatsminer M50 - 112.0th/t $660.0"}
+{"input": "dg1+ 13g 56500￥", "output": "Elphapex DG1+ - 13.0gh/t ￥56500.0"}
+{"input": "dg1+ 13g 7000u $7000.0", "output": "Elphapex DG1+ - 13.0gh/t $7000.0"}
+{"input": "s19pro a 84t $5.8/t $487.2", "output": "Bitmain Antminer S19 Pro - 84.0th/t $487.2"}
+{"input": "s19kpro 120t $8.2/t $984.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $984.0"}
+{"input": "x16qe 1850m $1154", "output": "Jasminer X16-Q - 1.85gh/t $1154.0"}
+{"input": "s19kpro110t $7.7 $847.0", "output": "Bitmain Bitcoin Miner S19K Pro - 110.0th/t $847.0"}
+{"input": "m50s 26w 136t gtd 1230u $1230.0", "output": "MicroBT Whatsminer M50S - 136.0th/t $1230.0"}
+{"input": "dg1+ 14g $7280", "output": "Elphapex DG1+ - 14.0gh/t $7280.0"}
+{"input": "hk l9 17g $8350", "output": "Bitmain Antminer L9 - 17.0gh/t $8350.0"}
+{"input": "m60s+188t 3 17.8u/t $3346.4", "output": "MicroBT Whatsminer M60S - 188.0th/t $3346.4"}
+{"input": "s19xphyd 257t 4 $9.7 $2492.9", "output": "Bitmain Antminer S19 XP Hyd - 257.0th/t $2492.9"}
+{"input": "dghome1 $1220may", "output": "Goldshell DG Home 1 - 1.22gh/t $1220.0"}
+{"input": "m50s++158t 2090u $2090.0", "output": "MicroBT Whatsminer M50S - 158.0th/t $2090.0"}
+{"input": "s19prohyd 184t 7 $7.4 $1361.6", "output": "Bitmain Antminer S19 Pro - 184.0th/t $1361.6"}
+{"input": "m50s 26w 128t 7.2u $921.6", "output": "MicroBT Whatsminer M50S - 128.0th/t $921.6"}
+{"input": "m61 19w 208/206/204t 13.6u/t $2774.4", "output": "MicroBT Whatsminer M61 - 204.0th/t $2774.4"}
+{"input": "m50s 26w 132t/ 7.2u $950.4", "output": "MicroBT Whatsminer M50S - 132.0th/t $950.4"}
+{"input": "hk l9 15g $7450", "output": "Bitmain Antminer L9 - 15.0gh/t $7450.0"}
+{"input": "hk s21+ 225t $14.2/t $3195.0", "output": "Bitmain Antminer S21+ - 225.0th/t $3195.0"}
+{"input": "l9 15g 7450u $7450.0", "output": "Bitmain Antminer L9 - 15.0gh/t $7450.0"}
+{"input": "l9 16.5ggtd 8950u $8950.0", "output": "Bitmain Antminer L9 - 16.5gh/t $8950.0"}
+{"input": "l9 15g 8400u $8400.0", "output": "Bitmain Antminer L9 - 15.0gh/t $8400.0"}
+{"input": "t21 190t gtd 2200u $2200.0", "output": "Bitmain Antminer T21 - 190.0th/t $2200.0"}
+{"input": "m50 118t  770u $770.0", "output": "MicroBT Whatsminer M50 - 118.0th/t $770.0"}
+{"input": "hk l9 16g $7800", "output": "Bitmain Antminer L9 - 16.0gh/t $7800.0"}
+{"input": "m50s++ 22w 158t 2060u $2060.0", "output": "MicroBT Whatsminer M50S - 158.0th/t $2060.0"}
+{"input": "m60 19.9w 174t 2430u $2430.0", "output": "MicroBT Whatsminer M60 - 174.0th/t $2430.0"}
+{"input": "mini doge 700m $550", "output": "Goldshell Mini Doge - 700.0mh/t $550.0"}
+{"input": "m50s++ 22w 156t 2020u $2020.0", "output": "MicroBT Whatsminer M50S - 156.0th/t $2020.0"}
+{"input": "l9 16.5g $8700", "output": "Bitmain Antminer L9 - 16.5gh/t $8700.0"}
+{"input": "ez100 c4000m 2950u $2950.0", "output": "Bombax Miner EZ100-C - 4.0gh/t $2950.0"}
+{"input": "m50s 26w 122t gtd 1100u $1100.0", "output": "MicroBT Whatsminer M50S - 122.0th/t $1100.0"}
+{"input": "hk s19xp+ hyd 279t $11/t $3069.0", "output": "Bitmain Antminer S19 XP - 279.0th/t $3069.0"}
+{"input": "l9 17g $8450", "output": "Bitmain Antminer L9 - 17.0gh/t $8450.0"}
+{"input": "s21+ 216t $14.9 $3218.4", "output": "Bitmain Antminer S21+ - 216.0th/t $3218.4"}
+{"input": "l9 16g 8600u $8600.0", "output": "Bitmain Antminer L9 - 16.0gh/t $8600.0"}
+{"input": "m50s 122t 26w 1day $995", "output": "MicroBT Whatsminer M50S - 122.0th/t $995.0"}
+{"input": "hk minidoge3+ 810m $690", "output": "Goldshell Mini Doge III+ - 810.0mh/t $690.0"}
+{"input": "l7 8800m  4000u $4000.0", "output": "Bitmain Antminer L7 - 8.8gh/t $4000.0"}
+{"input": "e9pro 3180m $1420", "output": "Bitmain Antminer E9 Pro - 3.18gh/t $1420.0"}
+{"input": "ks5pro 20t 1450u $1450.0", "output": "Bitmain Antminer KS5 Pro - 20.0th/t $1450.0"}
+{"input": "s21+ hyd 395t $15.1 $5964.5", "output": "Bitmain Antminer S21+ Hyd - 395.0th/t $5964.5"}
+{"input": "l7 9050m gtd 6599u $6599.0", "output": "Bitmain Antminer L7 - 9.05gh/t $6599.0"}
+{"input": "t21 190t gtd 2500u $2500.0", "output": "Bitmain Antminer T21 - 190.0th/t $2500.0"}
+{"input": "l9 17g 8900u $8900.0", "output": "Bitmain Antminer L9 - 17.0gh/t $8900.0"}
+{"input": "s19xp 257t $10.7 $2749.9", "output": "Bitmain Antminer S19 XP - 257.0th/t $2749.9"}
+{"input": "m61 19.9w 206/204/202/200t 13.1u/t $2620.0", "output": "MicroBT Whatsminer M61 - 200.0th/t $2620.0"}
+{"input": "k7 66t gtd 3100u $3100.0", "output": "Bitmain Antminer K7 - 66.0th/t $3100.0"}
+{"input": "m60 19.9w 176t 2610u $2610.0", "output": "MicroBT Whatsminer M60 - 176.0th/t $2610.0"}
+{"input": "k7 63.5t gtd 3100u $3100.0", "output": "Bitmain Antminer K7 - 63.5th/t $3100.0"}
+{"input": "s19pro a 104t $6.3/t $655.2", "output": "Bitmain Antminer S19 Pro - 104.0th/t $655.2"}
+{"input": "e11 9000m 5650u $5650.0", "output": "Ebang Ebit E11 - 9.0gh/t $5650.0"}
+{"input": "m61 19.9w 204t gtd 3010u $3010.0", "output": "MicroBT Whatsminer M61 - 204.0th/t $3010.0"}
+{"input": "s21+ 235t gtd 3800u $3800.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3800.0"}
+{"input": "m60 19w 176t 2800u $2800.0", "output": "MicroBT Whatsminer M60 - 176.0th/t $2800.0"}
+{"input": "m60s+ 16.5w 202/204/206t 18.1u $3728.6", "output": "MicroBT Whatsminer M60S - 206.0th/t $3728.6"}
+{"input": "dghome 1 2.1g $1720", "output": "Goldshell DG Home1 - 2.1gh/t $1720.0"}
+{"input": "hk s21xp 270t $21.7/t $5859.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5859.0"}
+{"input": "l9 15g 8050u $8050.0", "output": "Bitmain Antminer L9 - 15.0gh/t $8050.0"}
+{"input": "hk dg home1 2.1g $1750", "output": "Goldshell DG Home1 - 2.1gh/t $1750.0"}
+{"input": "l9 16g $8000", "output": "Bitmain Antminer L9 - 16.0gh/t $8000.0"}
+{"input": "l9 15g $7700", "output": "Bitmain Antminer L9 - 15.0gh/t $7700.0"}
+{"input": "l9 16g $7600", "output": "Bitmain Antminer L9 - 16.0gh/t $7600.0"}
+{"input": "aebox 37m $1499", "output": "Goldshell AE BOX - 37.0mh/t $1499.0"}
+{"input": "m61 19.9w 206/204/202/200t 13.8u/t $2760.0", "output": "MicroBT Whatsminer M61 - 200.0th/t $2760.0"}
+{"input": "s19prohyd 184t 3 $7.4 $1361.6", "output": "Bitmain Antminer S19 Pro - 184.0th/t $1361.6"}
+{"input": "s19exphyd 251t $9.1 $2284.1", "output": "Bitmain Antminer S19 - 251.0th/t $2284.1"}
+{"input": "s19xp 257t $10.2 $2621.4", "output": "Bitmain Antminer S19 XP - 257.0th/t $2621.4"}
+{"input": "l9 16.5g 9500u $9500.0", "output": "Bitmain Antminer L9 - 16.5gh/t $9500.0"}
+{"input": "l9 16g 9100u $9100.0", "output": "Bitmain Antminer L9 - 16.0gh/t $9100.0"}
+{"input": "l7 9050m 6200u $6200.0", "output": "Bitmain Antminer L7 - 9.05gh/t $6200.0"}
+{"input": "minidoge+810m $599", "output": "Goldshell Mini Doge+ - 810.0mh/t $599.0"}
+{"input": "s21+ 225t hk/sz $14.2/t $3195.0", "output": "Bitmain Antminer S21+ - 225.0th/t $3195.0"}
+{"input": "dg1+ 14g $8050", "output": "Elphapex DG1+ - 14.0gh/t $8050.0"}
+{"input": "s21xp 270t hk/ $22 $5940.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5940.0"}
+{"input": "s19pro+hyd 198t april $8.1 $1603.8", "output": "Bitmain Antminer S19 Pro - 198.0th/t $1603.8"}
+{"input": "aeboxpro 44m $1799", "output": "Goldshell AE Box Pro - 44.0mh/t $1799.0"}
+{"input": "m60 19w 178t gtd 2720u $2720.0", "output": "MicroBT Whatsminer M60 - 178.0th/t $2720.0"}
+{"input": "s21pro 234t $18.1 $4235.4", "output": "Bitmain Antminer S21 Pro - 234.0th/t $4235.4"}
+{"input": "m30s+ 96 106t mix 4800￥", "output": "MicroBT Whatsminer M30S+ - 106.0th/t ￥4800.0"}
+{"input": "ks5 pro 21t 1500u $1500.0", "output": "Bitmain Antminer KS5 - 21.0th/t $1500.0"}
+{"input": "s19kpro 120t $8.1 $972.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $972.0"}
+{"input": "l9 17g $8600", "output": "Bitmain Antminer L9 - 17.0gh/t $8600.0"}
+{"input": "m61 19.9w 200t gtd 2890u $2890.0", "output": "MicroBT Whatsminer M61 - 200.0th/t $2890.0"}
+{"input": "d1 mini2.2g 1580u $1580.0", "output": "Volc Miner D1 Mini - 2.2gh/t $1580.0"}
+{"input": "ks5 pro 21t 1650u $1650.0", "output": "Bitmain Antminer KS5 - 21.0th/t $1650.0"}
+{"input": "l9 17g 8600u $8600.0", "output": "Bitmain Antminer L9 - 17.0gh/t $8600.0"}
+{"input": "ks5pro21t gtd 3650u $3650.0", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $3650.0"}
+{"input": "l9 16g $7550", "output": "Bitmain Antminer L9 - 16.0gh/t $7550.0"}
+{"input": "hk dg1+ 14g $6800", "output": "Elphapex DG1+ - 14.0gh/t $6800.0"}
+{"input": "s19pro a 92/96t $5.4/t $518.4", "output": "Bitmain Antminer S19 Pro - 96.0th/t $518.4"}
+{"input": "1466 147tgtd 1580u $1580.0", "output": "Canaan Avalon Miner A1466 - 147.0th/t $1580.0"}
+{"input": "s21+ 235t hk/sz $14.2/t $3337.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3337.0"}
+{"input": "m50s 26w 130t/ 7.2u $936.0", "output": "MicroBT Whatsminer M50S - 130.0th/t $936.0"}
+{"input": "l9 16ggtd 9900u $9900.0", "output": "Bitmain Antminer L9 - 16.0gh/t $9900.0"}
+{"input": "m60s18.5w 180t mix $14.5 $2610.0", "output": "MicroBT Whatsminer M60S - 180.0th/t $2610.0"}
+{"input": "l7 9500m  4300u $4300.0", "output": "Bitmain Antminer L7 - 9.5gh/t $4300.0"}
+{"input": "a1566 212tgtd 3050u $3050.0", "output": "Canaan Avalon Miner A1566 - 212.0th/t $3050.0"}
+{"input": "almax 8.3t $2288", "output": "Goldshell AL Max - 8.3th/t $2288.0"}
+{"input": "e9pro 3780m $1600", "output": "Bitmain Antminer E9 Pro - 3.78gh/t $1600.0"}
+{"input": "s19pro a 92/96t $6/t $576.0", "output": "Bitmain Antminer S19 Pro - 96.0th/t $576.0"}
+{"input": "l9 16.5g $8200", "output": "Bitmain Antminer L9 - 16.5gh/t $8200.0"}
+{"input": "s21+hyd 395t gtd 7500u $7500.0", "output": "Bitmain Antminer S21+ HYD - 395.0th/t $7500.0"}
+{"input": "s19 kpro 115t 8.1u/t $931.5", "output": "Bitmain Antminer S19 - 115.0th/t $931.5"}
+{"input": "dg home 2.1g $1790", "output": "Goldshell DG Home - 2.1gh/t $1790.0"}
+{"input": "s19 kpro 120t 8u/t $960.0", "output": "Bitmain Antminer S19 - 120.0th/t $960.0"}
+{"input": "ks5 pro 21t 1550u $1550.0", "output": "Bitmain Antminer KS5 - 21.0th/t $1550.0"}
+{"input": "s19jxp143t 1560ugtd $1560.0", "output": "Bitmain Antminer S19 - 143.0th/t $1560.0"}
+{"input": "k7 66t gtd 3350u $3350.0", "output": "Bitmain Antminer K7 - 66.0th/t $3350.0"}
+{"input": "m50s 26w 122t gtd 1000u $1000.0", "output": "MicroBT Whatsminer M50S - 122.0th/t $1000.0"}
+{"input": "hk t21 190t $13.2/t $2508.0", "output": "Bitmain Antminer T21 - 190.0th/t $2508.0"}
+{"input": "hk ks7 30t $4299april", "output": "Bitmain Antminer KS7 - 30.0th/t $4299.0"}
+{"input": "s21+ 216t hk/sz $14.6/t $3153.6", "output": "Bitmain Antminer S21+ - 216.0th/t $3153.6"}
+{"input": "ez100 12500m $9500", "output": "Bombax Miner EZ100-C - 12.5gh/t $9500.0"}
+{"input": "m50s 26w 120/122/124t $7 $868.0", "output": "MicroBT Whatsminer M50S - 124.0th/t $868.0"}
+{"input": "aeboxpro 44m $1899", "output": "Goldshell AE Box Pro - 44.0mh/t $1899.0"}
+{"input": "m61 19.9w 206t gtd 3140u $3140.0", "output": "MicroBT Whatsminer M61 - 206.0th/t $3140.0"}
+{"input": "d1 mini2.2g $19002", "output": "Volc Miner D1 Mini - 2.2gh/t $19002.0"}
+{"input": "m60 19.9w 170t 2630u $2630.0", "output": "MicroBT Whatsminer M60 - 170.0th/t $2630.0"}
+{"input": "ks5 20t $1499", "output": "Bitmain Antminer KS5 - 20.0th/t $1499.0"}
+{"input": "d1 lite14g3 6500u $6500.0", "output": "Volc Miner D1 - 14.0gh/t $6500.0"}
+{"input": "s19jxp 151t gtd 1930u $1930.0", "output": "Bitmain Antminer S19 - 151.0th/t $1930.0"}
+{"input": "s19xphyd 257t $9.3 $2390.1", "output": "Bitmain Antminer S19 XP Hyd - 257.0th/t $2390.1"}
+{"input": "ks5pro 21t 1850u $1850.0", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1850.0"}
+{"input": "a1566 182tgtd 2700u $2700.0", "output": "Canaan Avalon Miner A1566 - 182.0th/t $2700.0"}
+{"input": "l7 8800m used 5600u $5600.0", "output": "Bitmain Antminer L7 - 8.8gh/t $5600.0"}
+{"input": "m61 19.9w 202t 2840u $2840.0", "output": "MicroBT Whatsminer M61 - 202.0th/t $2840.0"}
+{"input": "m60 19.9w 172t 2370u $2370.0", "output": "MicroBT Whatsminer M60 - 172.0th/t $2370.0"}
+{"input": "s21xp 270t $21.7 $5859.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5859.0"}
+{"input": "s19jxp151t 1930ugtd $1930.0", "output": "Bitmain Antminer S19 - 151.0th/t $1930.0"}
+{"input": "e9pro 3580m $1630", "output": "Bitmain Antminer E9 Pro - 3.58gh/t $1630.0"}
+{"input": "l9 17g 9050u $9050.0", "output": "Bitmain Antminer L9 - 17.0gh/t $9050.0"}
+{"input": "l7 9300m  4200u $4200.0", "output": "Bitmain Antminer L7 - 9.3gh/t $4200.0"}
+{"input": "dg1+ 14g 6700u $6700.0", "output": "Elphapex DG1+ - 14.0gh/t $6700.0"}
+{"input": "l9 15g 7750u $7750.0", "output": "Bitmain Antminer L9 - 15.0gh/t $7750.0"}
+{"input": "dg1+ 14g 7100u $7100.0", "output": "Elphapex DG1+ - 14.0gh/t $7100.0"}
+{"input": "s19xp 141/143t mix 10.8u/t $1544.4", "output": "Bitmain Antminer S19 XP - 143.0th/t $1544.4"}
+{"input": "m50s 26w 126/128/130t $7.1 $923.0", "output": "MicroBT Whatsminer M50S - 130.0th/t $923.0"}
+{"input": "l9 17g 10000u $10000.0", "output": "Bitmain Antminer L9 - 17.0gh/t $10000.0"}
+{"input": "hk ks7 lite 4.2t $710april", "output": "Bitmain Antminer KS7 - 4.2th/t $710.0"}
+{"input": "m60s+ 17w 200/202/204/206t 18u $3708.0", "output": "MicroBT Whatsminer M60S - 206.0th/t $3708.0"}
+{"input": "s21+ 216t $14.4 $3110.4", "output": "Bitmain Antminer S21+ - 216.0th/t $3110.4"}
+{"input": "s19pro110t 680u $680.0", "output": "Bitmain Antminer S19 Pro - 110.0th/t $680.0"}
+{"input": "s19 kpro 120t 8.4u/t $1008.0", "output": "Bitmain Antminer S19 - 120.0th/t $1008.0"}
+{"input": "t21 190t $13.7 $2603.0", "output": "Bitmain Antminer T21 - 190.0th/t $2603.0"}
+{"input": "m60 19.9w 172t gtd 2540u $2540.0", "output": "MicroBT Whatsminer M60 - 172.0th/t $2540.0"}
+{"input": "m60 19.9w 168t 2590u $2590.0", "output": "MicroBT Whatsminer M60 - 168.0th/t $2590.0"}
+{"input": "t21 190t 12.8u $2432.0", "output": "Bitmain Antminer T21 - 190.0th/t $2432.0"}
+{"input": "m60 19.9w 170t gtd 2450u $2450.0", "output": "MicroBT Whatsminer M60 - 170.0th/t $2450.0"}
+{"input": "s21+ 216tgtd rb 4000u $4000.0", "output": "Bitmain Antminer S21+ - 216.0th/t $4000.0"}
+{"input": "l9 17g $9100", "output": "Bitmain Antminer L9 - 17.0gh/t $9100.0"}
+{"input": "s19pro a 100t $5.5/t $550.0", "output": "Bitmain Antminer S19 Pro - 100.0th/t $550.0"}
+{"input": "m60 19.9w 176t 2780u $2780.0", "output": "MicroBT Whatsminer M60 - 176.0th/t $2780.0"}
+{"input": "s21+ 235t hk/sz $14.6/t $3431.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3431.0"}
+{"input": "m50s 26w 130t/ 7.1u $923.0", "output": "MicroBT Whatsminer M50S - 130.0th/t $923.0"}
+{"input": "s21+ 225t gtd 3700u $3700.0", "output": "Bitmain Antminer S21+ - 225.0th/t $3700.0"}
+{"input": "aeboxpro44m $1700", "output": "Goldshell AE Box Pro - 44.0mh/t $1700.0"}
+{"input": "s21pro 234t 17.9u $4188.6", "output": "Bitmain Antminer S21 Pro - 234.0th/t $4188.6"}
+{"input": "k7 58t gtd 2900u $2900.0", "output": "Bitmain Antminer K7 - 58.0th/t $2900.0"}
+{"input": "hk s21+ hyd 395t $15.1/t $5964.5", "output": "Bitmain Antminer S21+ Hyd - 395.0th/t $5964.5"}
+{"input": "l9 15g $7950", "output": "Bitmain Antminer L9 - 15.0gh/t $7950.0"}
+{"input": "s21+hyd 395t $15.5 $6122.5", "output": "Bitmain Antminer S21+ HYD - 395.0th/t $6122.5"}
+{"input": "hk dg home1 2.1g $1450", "output": "Goldshell DG Home1 - 2.1gh/t $1450.0"}
+{"input": "l9 15g 7400u $7400.0", "output": "Bitmain Antminer L9 - 15.0gh/t $7400.0"}
+{"input": "dg1+ 13g $7400", "output": "Elphapex DG1+ - 13.0gh/t $7400.0"}
+{"input": "l9  16.5g $10200", "output": "Bitmain Antminer L9 - 16.5gh/t $10200.0"}
+{"input": "s19kpro 115t $8.1/t $931.5", "output": "Bitmain Bitcoin Miner S19K Pro - 115.0th/t $931.5"}
+{"input": "l9 16g 8250u $8250.0", "output": "Bitmain Antminer L9 - 16.0gh/t $8250.0"}
+{"input": "x16q1950m $1299", "output": "Jasminer X16-Q - 1.95gh/t $1299.0"}
+{"input": "ks5 20t 1350u $1350.0", "output": "Bitmain Antminer KS5 - 20.0th/t $1350.0"}
+{"input": "s19pro a 100t $6.2/t $620.0", "output": "Bitmain Antminer S19 Pro - 100.0th/t $620.0"}
+{"input": "ks5pro 21t $1680", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1680.0"}
+{"input": "l9 17g 8450u $8450.0", "output": "Bitmain Antminer L9 - 17.0gh/t $8450.0"}
+{"input": "dg1+14.4g $8500", "output": "Elphapex DG1+ - 14.4gh/t $8500.0"}
+{"input": "t21 190t 13.7u $2603.0", "output": "Bitmain Antminer T21 - 190.0th/t $2603.0"}
+{"input": "hk al3 15t $2300", "output": "Goldshell AL3 - 15.0th/t $2300.0"}
+{"input": "l9 15g 7350u $7350.0", "output": "Bitmain Antminer L9 - 15.0gh/t $7350.0"}
+{"input": "l9 15g $7400", "output": "Bitmain Antminer L9 - 15.0gh/t $7400.0"}
+{"input": "ks7 lite 4.2t $730", "output": "Bitmain Antminer KS7 - 4.2th/t $730.0"}
+{"input": "t21 190t 13.2u $2508.0", "output": "Bitmain Antminer T21 - 190.0th/t $2508.0"}
+{"input": "hk s21+ 216t $14.4/t $3110.4", "output": "Bitmain Antminer S21+ - 216.0th/t $3110.4"}
+{"input": "s19xphyd 257t $9.5 $2441.5", "output": "Bitmain Antminer S19 XP Hyd - 257.0th/t $2441.5"}
+{"input": "m61 19.9w 200t gtd 2970u $2970.0", "output": "MicroBT Whatsminer M61 - 200.0th/t $2970.0"}
+{"input": "m60 19w 178t 2840u $2840.0", "output": "MicroBT Whatsminer M60 - 178.0th/t $2840.0"}
+{"input": "ks7 30t $4350", "output": "Bitmain Antminer KS7 - 30.0th/t $4350.0"}
+{"input": "m50s 132t 26w $1100", "output": "MicroBT Whatsminer M50S - 132.0th/t $1100.0"}
+{"input": "m60 19.9w 170t mix $13.5 $2295.0", "output": "MicroBT Whatsminer M60 - 170.0th/t $2295.0"}
+{"input": "al3 15t $2280", "output": "Goldshell AL3 - 15.0th/t $2280.0"}
+{"input": "hk mini3 37.5t $860", "output": "Canaan Avalon Miner Mini 3 - 37.5th/t $860.0"}
+{"input": "ks5 pro 21t 1750u $1750.0", "output": "Bitmain Antminer KS5 - 21.0th/t $1750.0"}
+{"input": "s21+ 235t hk/sz $14.3/t $3360.5", "output": "Bitmain Antminer S21+ - 235.0th/t $3360.5"}
+{"input": "m50s+24w142/144/146t $9 $1314.0", "output": "MicroBT Whatsminer M50S - 146.0th/t $1314.0"}
+{"input": "l9 16g 7750u $7750.0", "output": "Bitmain Antminer L9 - 16.0gh/t $7750.0"}
+{"input": "m60 19.9w 172t 2710u $2710.0", "output": "MicroBT Whatsminer M60 - 172.0th/t $2710.0"}
+{"input": "d10+ 5g 3199u $3199.0", "output": "Bitmain Antminer D10+ - 5.0gh/t $3199.0"}
+{"input": "hk l7 9050m mix $4850 march", "output": "Bitmain Antminer L7 - 9.05gh/t $4850.0"}
+{"input": "m50s++ 22w 160t 2100u $2100.0", "output": "MicroBT Whatsminer M50S - 160.0th/t $2100.0"}
+{"input": "hk l9 16g $8600", "output": "Bitmain Antminer L9 - 16.0gh/t $8600.0"}
+{"input": "m60s 180t 3 15.3u/t $2754.0", "output": "MicroBT Whatsminer M60S - 180.0th/t $2754.0"}
+{"input": "m50s 26w 130t/ 7.4u $962.0", "output": "MicroBT Whatsminer M50S - 130.0th/t $962.0"}
+{"input": "hk l9 16g $7850", "output": "Bitmain Antminer L9 - 16.0gh/t $7850.0"}
+{"input": "hk ks7 lite 4.2t $730april", "output": "Bitmain Antminer KS7 - 4.2th/t $730.0"}
+{"input": "l9 16.5g $8100", "output": "Bitmain Antminer L9 - 16.5gh/t $8100.0"}
+{"input": "hk aeo 50m psu$1770 april $1770.0", "output": "Iceriver AEO - 50.0mh/t $1770.0"}
+{"input": "l9 16g 9900u $9900.0", "output": "Bitmain Antminer L9 - 16.0gh/t $9900.0"}
+{"input": "s19kpro 120t $8.1/t $972.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $972.0"}
+{"input": "s21+ 216t $14.5 $3132.0", "output": "Bitmain Antminer S21+ - 216.0th/t $3132.0"}
+{"input": "ae 50m 4.15 30 $1780", "output": "Goldshell AE BOX - 50.0mh/t $1780.0"}
+{"input": "ae0 50mpsu $1770 $1770.0", "output": "Iceriver AE0 - 50.0mh/t $1770.0"}
+{"input": "1466 147tgtd 1620u $1620.0", "output": "Canaan Avalon Miner A1466 - 147.0th/t $1620.0"}
+{"input": "t21 190t gtd 2250u $2250.0", "output": "Bitmain Antminer T21 - 190.0th/t $2250.0"}
+{"input": "hk x16 q 2050m $1550", "output": "Jasminer X16-Q - 2.05gh/t $1550.0"}
+{"input": "m60 19.9w 156 164t 13.6u/t $2230.4", "output": "MicroBT Whatsminer M60 - 164.0th/t $2230.4"}
+{"input": "s19 kpro 115t 7.9u/t $908.5", "output": "Bitmain Antminer S19 - 115.0th/t $908.5"}
+{"input": "d1 mini2.2g $1700", "output": "Volc Miner D1 Mini - 2.2gh/t $1700.0"}
+{"input": "s21+ 235t gtd 3750u $3750.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3750.0"}
+{"input": "s19xp 141/143t mix 9.8u/t $1401.4", "output": "Bitmain Antminer S19 XP - 143.0th/t $1401.4"}
+{"input": "d1 mini2.2g $1480april", "output": "Volc Miner D1 Mini - 2.2gh/t $1480.0"}
+{"input": "m60 19.9w 174t 2480u $2480.0", "output": "MicroBT Whatsminer M60 - 174.0th/t $2480.0"}
+{"input": "m60s+17w 200/202t $18.2 $3676.4", "output": "MicroBT Whatsminer M60S - 202.0th/t $3676.4"}
+{"input": "m61 19.9w 198t gtd 2630u $2630.0", "output": "MicroBT Whatsminer M61 - 198.0th/t $2630.0"}
+{"input": "m50s 26w 136t gtd 1130u $1130.0", "output": "MicroBT Whatsminer M50S - 136.0th/t $1130.0"}
+{"input": "l9 16ggtd 9700u $9700.0", "output": "Bitmain Antminer L9 - 16.0gh/t $9700.0"}
+{"input": "dg1+14.4ggtd 8900u $8900.0", "output": "Elphapex DG1+ - 14.4gh/t $8900.0"}
+{"input": "hk l9 15g $7600", "output": "Bitmain Antminer L9 - 15.0gh/t $7600.0"}
+{"input": "s21pro 234t $17.9 $4188.6", "output": "Bitmain Antminer S21 Pro - 234.0th/t $4188.6"}
+{"input": "l9 16g 8500u $8500.0", "output": "Bitmain Antminer L9 - 16.0gh/t $8500.0"}
+{"input": "l9 15g 7550u $7550.0", "output": "Bitmain Antminer L9 - 15.0gh/t $7550.0"}
+{"input": "x16qe 1750m $1060", "output": "Jasminer X16-Q - 1.75gh/t $1060.0"}
+{"input": "l9 17g 13000u $13000.0", "output": "Bitmain Antminer L9 - 17.0gh/t $13000.0"}
+{"input": "t21 190t gtd 2400u $2400.0", "output": "Bitmain Antminer T21 - 190.0th/t $2400.0"}
+{"input": "s19kpro 120t 1180u $1180.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $1180.0"}
+{"input": "hk l9 17g $8550", "output": "Bitmain Antminer L9 - 17.0gh/t $8550.0"}
+{"input": "l9 16g $8200", "output": "Bitmain Antminer L9 - 16.0gh/t $8200.0"}
+{"input": "hk dg home1 2.1g $1520", "output": "Goldshell DG Home1 - 2.1gh/t $1520.0"}
+{"input": "m60s+17w 200/202t $17.9 $3615.8", "output": "MicroBT Whatsminer M60S - 202.0th/t $3615.8"}
+{"input": "t21 180t gtd 2750u $2750.0", "output": "Bitmain Antminer T21 - 180.0th/t $2750.0"}
+{"input": "s21+ 216t gtd 3500u $3500.0", "output": "Bitmain Antminer S21+ - 216.0th/t $3500.0"}
+{"input": "1246 90/93t 240/248u $23064.0", "output": "Canaan Avalon Miner A1246 - 93.0th/t $23064.0"}
+{"input": "m50 29w 112t gtd 900u $900.0", "output": "MicroBT Whatsminer M50 - 112.0th/t $900.0"}
+{"input": "s19kpro120t $8.1 $972.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $972.0"}
+{"input": "m60s+17w 204/206t $18 $3708.0", "output": "MicroBT Whatsminer M60S - 206.0th/t $3708.0"}
+{"input": "m60s+ 17w 194/196/198t 17.9u $3544.2", "output": "MicroBT Whatsminer M60S - 198.0th/t $3544.2"}
+{"input": "t21 190t 14.1u $2679.0", "output": "Bitmain Antminer T21 - 190.0th/t $2679.0"}
+{"input": "l7 9300m 6199u $6199.0", "output": "Bitmain Antminer L7 - 9.3gh/t $6199.0"}
+{"input": "l9 16.5g $8600", "output": "Bitmain Antminer L9 - 16.5gh/t $8600.0"}
+{"input": "a1566 182tgtd 2720u $2720.0", "output": "Canaan Avalon Miner A1566 - 182.0th/t $2720.0"}
+{"input": "m60 19.9w 176t 2560u $2560.0", "output": "MicroBT Whatsminer M60 - 176.0th/t $2560.0"}
+{"input": "hk l9 16g $8050", "output": "Bitmain Antminer L9 - 16.0gh/t $8050.0"}
+{"input": "l9 16g 8150u $8150.0", "output": "Bitmain Antminer L9 - 16.0gh/t $8150.0"}
+{"input": "s21+ 216t $14.6 $3153.6", "output": "Bitmain Antminer S21+ - 216.0th/t $3153.6"}
+{"input": "hk ks5 20t $1350", "output": "Bitmain Antminer KS5 - 20.0th/t $1350.0"}
+{"input": "s21xp 270t hk/ $21.9 $5913.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5913.0"}
+{"input": "minidoge 700mwifi $485", "output": "Goldshell Mini Doge - 700.0mh/t $485.0"}
+{"input": "s19kpro110t $7.8 $858.0", "output": "Bitmain Bitcoin Miner S19K Pro - 110.0th/t $858.0"}
+{"input": "s21+hyd 358t $15.5 $5549.0", "output": "Bitmain Antminer S21+ HYD - 358.0th/t $5549.0"}
+{"input": "t21 190t $13.2 $2508.0", "output": "Bitmain Antminer T21 - 190.0th/t $2508.0"}
+{"input": "ka3 173t 2000u $2000.0", "output": "Bitmain Antminer KA3 - 173.0th/t $2000.0"}
+{"input": "m60 19.9w 166 178t 14u/t $2492.0", "output": "MicroBT Whatsminer M60 - 178.0th/t $2492.0"}
+{"input": "m60 19.9w 174t 2570u $2570.0", "output": "MicroBT Whatsminer M60 - 174.0th/t $2570.0"}
+{"input": "hk avalon nano3 4t $180 $720.0", "output": "Avalon Nano3 - 4.0th/t $720.0"}
+{"input": "a2 226t 3 15u/t $3390.0", "output": "Bitdeer SealMiner A2 - 226.0th/t $3390.0"}
+{"input": "s19exphyd 251t $8.6 $2158.6", "output": "Bitmain Antminer S19 - 251.0th/t $2158.6"}
+{"input": "hk s19k pro 115t $7.8/t $897.0", "output": "Bitmain Antminer S19 - 115.0th/t $897.0"}
+{"input": "s21+ 216t mix april $14.5 $3132.0", "output": "Bitmain Antminer S21+ - 216.0th/t $3132.0"}
+{"input": "s19xp hyd257t  10.5u/ $2698.5", "output": "Bitmain Antminer S19 XP - 257.0th/t $2698.5"}
+{"input": "s21xp 270t $22.1 $5967.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5967.0"}
+{"input": "m50s++156t 2050u $2050.0", "output": "MicroBT Whatsminer M50S - 156.0th/t $2050.0"}
+{"input": "ka3 173t 2500u $2500.0", "output": "Bitmain Antminer KA3 - 173.0th/t $2500.0"}
+{"input": "l9 16.5g $8000", "output": "Bitmain Antminer L9 - 16.5gh/t $8000.0"}
+{"input": "l9 15g 7600u $7600.0", "output": "Bitmain Antminer L9 - 15.0gh/t $7600.0"}
+{"input": "ae0 50mpsu $1720 $1720.0", "output": "Iceriver AE0 - 50.0mh/t $1720.0"}
+{"input": "hk s19k pro 115t $7.9/t $908.5", "output": "Bitmain Antminer S19 - 115.0th/t $908.5"}
+{"input": "dghome 1 2.1g may $1220", "output": "Goldshell DG Home1 - 2.1gh/t $1220.0"}
+{"input": "m60 19.9w 166t gtd 2400u $2400.0", "output": "MicroBT Whatsminer M60 - 166.0th/t $2400.0"}
+{"input": "l7 9050m 4500u $4500.0", "output": "Bitmain Antminer L7 - 9.05gh/t $4500.0"}
+{"input": "s21+ 235t gtd 3700u $3700.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3700.0"}
+{"input": "hk dg home1 2.1g $1399", "output": "Goldshell DG Home1 - 2.1gh/t $1399.0"}
+{"input": "s21pro 245t $19.1 $4679.5", "output": "Bitmain Antminer S21 Pro - 245.0th/t $4679.5"}
+{"input": "hk s21+ 225t $14.1/t $3172.5", "output": "Bitmain Antminer S21+ - 225.0th/t $3172.5"}
+{"input": "s21+ hyd 358t $15.2 $5441.6", "output": "Bitmain Antminer S21+ Hyd - 358.0th/t $5441.6"}
+{"input": "hk s21+ 216t $14.7/t $3175.2", "output": "Bitmain Antminer S21+ - 216.0th/t $3175.2"}
+{"input": "l9 17g gtd 9500u $9500.0", "output": "Bitmain Antminer L9 - 17.0gh/t $9500.0"}
+{"input": "m60 19.9w 166 180t 13.3u/t $2394.0", "output": "MicroBT Whatsminer M60 - 180.0th/t $2394.0"}
+{"input": "s21+ 235t $14.3 $3360.5", "output": "Bitmain Antminer S21+ - 235.0th/t $3360.5"}
+{"input": "aebox ii 54m ￥15050", "output": "Goldshell AE BOX - 54.0mh/t ￥15050.0"}
+{"input": "hk s19k pro 120t $8.1/t $972.0", "output": "Bitmain Antminer S19 - 120.0th/t $972.0"}
+{"input": "mini doge iii 700m $599wifi", "output": "Goldshell Mini Doge III - 700.0mh/t $599.0"}
+{"input": "l9 16.5ggtd 10250u $10250.0", "output": "Bitmain Antminer L9 - 16.5gh/t $10250.0"}
+{"input": "m60 19.9w 156 164t 13.2u/t $2164.8", "output": "MicroBT Whatsminer M60 - 164.0th/t $2164.8"}
+{"input": "s19jpro a 104t $5.8/t $603.2", "output": "Bitmain Antminer S19 - 104.0th/t $603.2"}
+{"input": "t21 190t indonesia $13.2 $2508.0", "output": "Bitmain Antminer T21 - 190.0th/t $2508.0"}
+{"input": "m50s 26w 126t gtd 1040u $1040.0", "output": "MicroBT Whatsminer M50S - 126.0th/t $1040.0"}
+{"input": "m61 19.9w 204t 3040u $3040.0", "output": "MicroBT Whatsminer M61 - 204.0th/t $3040.0"}
+{"input": "t21 190t $14.5 $2755.0", "output": "Bitmain Antminer T21 - 190.0th/t $2755.0"}
+{"input": "m60 19.9w 174t 2740u $2740.0", "output": "MicroBT Whatsminer M60 - 174.0th/t $2740.0"}
+{"input": "m50s+24w142/144/146t $8.8 $1284.8", "output": "MicroBT Whatsminer M50S - 146.0th/t $1284.8"}
+{"input": "s19exp hyd 251t $2580", "output": "Bitmain Antminer S19 - 251.0th/t $2580.0"}
+{"input": "m50s++154t 1980u $1980.0", "output": "MicroBT Whatsminer M50S - 154.0th/t $1980.0"}
+{"input": "t21 186t indonesia $12.7 $2362.2", "output": "Bitmain Antminer T21 - 186.0th/t $2362.2"}
+{"input": "m50s 26w 132t/ 7.3u $963.6", "output": "MicroBT Whatsminer M50S - 132.0th/t $963.6"}
+{"input": "s21+ 216t 15.2u $3283.2", "output": "Bitmain Antminer S21+ - 216.0th/t $3283.2"}
+{"input": "m60 19.9w 170t gtd 2440u $2440.0", "output": "MicroBT Whatsminer M60 - 170.0th/t $2440.0"}
+{"input": "s19 kpro 115t 8.4u/t $966.0", "output": "Bitmain Antminer S19 - 115.0th/t $966.0"}
+{"input": "m61 19.9w 206/204/202/200t 13.4u/t $2680.0", "output": "MicroBT Whatsminer M61 - 200.0th/t $2680.0"}
+{"input": "d10+ 5g 2199u $2199.0", "output": "Bitmain Antminer D10+ - 5.0gh/t $2199.0"}
+{"input": "minidoge 700mwifi $509", "output": "Goldshell Mini Doge - 700.0mh/t $509.0"}
+{"input": "x16q 2050m $1599", "output": "Jasminer X16-Q - 2.05gh/t $1599.0"}
+{"input": "s19 kpro 120t 8.8u/t $1056.0", "output": "Bitmain Antminer S19 - 120.0th/t $1056.0"}
+{"input": "x16qe 1650m $980", "output": "Jasminer X16-Q - 1.65gh/t $980.0"}
+{"input": "mini3 37.5t $900", "output": "Canaan Avalon Miner Mini 3 - 37.5th/t $900.0"}
+{"input": "al box 360g 499u $499.0", "output": "Goldshell AL Box - 360.0gh/t $499.0"}
+{"input": "hk l9 17g $8400", "output": "Bitmain Antminer L9 - 17.0gh/t $8400.0"}
+{"input": "hk s21pro 234t $17.9/t $4188.6", "output": "Bitmain Antminer S21 Pro - 234.0th/t $4188.6"}
+{"input": "s21+ 216t $15.5 $3348.0", "output": "Bitmain Antminer S21+ - 216.0th/t $3348.0"}
+{"input": "dghome 1 2.1g $1399", "output": "Goldshell DG Home1 - 2.1gh/t $1399.0"}
+{"input": "s21+ 225t $14.1 $3172.5", "output": "Bitmain Antminer S21+ - 225.0th/t $3172.5"}
+{"input": "s19exp hyd 251t $2320", "output": "Bitmain Antminer S19 - 251.0th/t $2320.0"}
+{"input": "k7 63.5t gtd 2980u $2980.0", "output": "Bitmain Antminer K7 - 63.5th/t $2980.0"}
+{"input": "s21xp 270t 22.2u $5994.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5994.0"}
+{"input": "hk ka3 173t $2000", "output": "Bitmain Antminer KA3 - 173.0th/t $2000.0"}
+{"input": "l7 9050mmix$4080jun $4080.0", "output": "Bitmain Antminer L7 - 9.05gh/t $4080.0"}
+{"input": "l9 16g mix $8700apr", "output": "Bitmain Antminer L9 - 16.0gh/t $8700.0"}
+{"input": "s19 kro115t 1050u $1050.0", "output": "Bitmain Antminer S19 - 115.0th/t $1050.0"}
+{"input": "minidoge+810m $585", "output": "Goldshell Mini Doge+ - 810.0mh/t $585.0"}
+{"input": "almax 8.3t ￥17500", "output": "Goldshell AL Max - 8.3th/t ￥17500.0"}
+{"input": "s19jpro a 104t $6.4/t $665.6", "output": "Bitmain Antminer S19 - 104.0th/t $665.6"}
+{"input": "hk s21pro 234t $18.2/t $4258.8", "output": "Bitmain Antminer S21 Pro - 234.0th/t $4258.8"}
+{"input": "hk ks5 20t $1450", "output": "Bitmain Antminer KS5 - 20.0th/t $1450.0"}
+{"input": "s21xp 270t hk/$22.1 $5967.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5967.0"}
+{"input": "s19kpro110t $8.4 $924.0", "output": "Bitmain Bitcoin Miner S19K Pro - 110.0th/t $924.0"}
+{"input": "m50s 26w 130t gtd 1080u $1080.0", "output": "MicroBT Whatsminer M50S - 130.0th/t $1080.0"}
+{"input": "minidoge 700mwifi $499", "output": "Goldshell Mini Doge - 700.0mh/t $499.0"}
+{"input": "5s21+ 216t mix 15u/t $3240.0", "output": "Bitmain Antminer S21+ - 216.0th/t $3240.0"}
+{"input": "ks5 20t $1550", "output": "Bitmain Antminer KS5 - 20.0th/t $1550.0"}
+{"input": "dgmax 6.5g $2680", "output": "Goldshell DG Max - 6.5gh/t $2680.0"}
+{"input": "hk l9 16g $8100", "output": "Bitmain Antminer L9 - 16.0gh/t $8100.0"}
+{"input": "aebox  54m $2050", "output": "Goldshell AE BOX - 54.0mh/t $2050.0"}
+{"input": "m60 19.9w 166 180t 13.7u/t $2466.0", "output": "MicroBT Whatsminer M60 - 180.0th/t $2466.0"}
+{"input": "hk dg1+ 14g $6950", "output": "Elphapex DG1+ - 14.0gh/t $6950.0"}
+{"input": "l7 8800m 4300u $4300.0", "output": "Bitmain Antminer L7 - 8.8gh/t $4300.0"}
+{"input": "hk ks5 20t $1300", "output": "Bitmain Antminer KS5 - 20.0th/t $1300.0"}
+{"input": "s19prohyd 184t 6 $7.4 $1361.6", "output": "Bitmain Antminer S19 Pro - 184.0th/t $1361.6"}
+{"input": "m60 19.9w 176t gtd 2620u $2620.0", "output": "MicroBT Whatsminer M60 - 176.0th/t $2620.0"}
+{"input": "hk ks5 20t $1400", "output": "Bitmain Antminer KS5 - 20.0th/t $1400.0"}
+{"input": "m60 19.9w 174t gtd 2580u $2580.0", "output": "MicroBT Whatsminer M60 - 174.0th/t $2580.0"}
+{"input": "s19kpro110t $8 $880.0", "output": "Bitmain Bitcoin Miner S19K Pro - 110.0th/t $880.0"}
+{"input": "m60 19w 178t gtd 2690u $2690.0", "output": "MicroBT Whatsminer M60 - 178.0th/t $2690.0"}
+{"input": "m50 29w 112t gtd 890u $890.0", "output": "MicroBT Whatsminer M50 - 112.0th/t $890.0"}
+{"input": "s19xphyd 257t $10.3 $2647.1", "output": "Bitmain Antminer S19 XP Hyd - 257.0th/t $2647.1"}
+{"input": "l9 15g $7600", "output": "Bitmain Antminer L9 - 15.0gh/t $7600.0"}
+{"input": "s21+ 216t mix june $14.4 $3110.4", "output": "Bitmain Antminer S21+ - 216.0th/t $3110.4"}
+{"input": "s19prohyd 184t 4 $7.4 $1361.6", "output": "Bitmain Antminer S19 Pro - 184.0th/t $1361.6"}
+{"input": "l9 17ggtd 10650u $10650.0", "output": "Bitmain Antminer L9 - 17.0gh/t $10650.0"}
+{"input": "m50s 26w 126t gtd 1130u $1130.0", "output": "MicroBT Whatsminer M50S - 126.0th/t $1130.0"}
+{"input": "aebox 37m $1720", "output": "Goldshell AE BOX - 37.0mh/t $1720.0"}
+{"input": "d1 mini2.2g $1550", "output": "Volc Miner D1 Mini - 2.2gh/t $1550.0"}
+{"input": "ae0 50mpsu $1730 $1730.0", "output": "Iceriver AE0 - 50.0mh/t $1730.0"}
+{"input": "dg1+ 14ggtd 8500u $8500.0", "output": "Elphapex DG1+ - 14.0gh/t $8500.0"}
+{"input": "l7 9050m 5500u $5500.0", "output": "Bitmain Antminer L7 - 9.05gh/t $5500.0"}
+{"input": "hk s19pro+hyd 198t april $8.1/t $1603.8", "output": "Bitmain Antminer S19 Pro - 198.0th/t $1603.8"}
+{"input": "m60 19.9w 166 180t 13u/t $2340.0", "output": "MicroBT Whatsminer M60 - 180.0th/t $2340.0"}
+{"input": "l7 8550m  3700u $3700.0", "output": "Bitmain Antminer L7 - 8.55gh/t $3700.0"}
+{"input": "l9 16g $8600", "output": "Bitmain Antminer L9 - 16.0gh/t $8600.0"}
+{"input": "m50s 26w 132t/ 7.4u $976.8", "output": "MicroBT Whatsminer M50S - 132.0th/t $976.8"}
+{"input": "l9  15g $9700", "output": "Bitmain Antminer L9 - 15.0gh/t $9700.0"}
+{"input": "m60 19w 176/178t 13.3u/t $2367.4", "output": "MicroBT Whatsminer M60 - 178.0th/t $2367.4"}
+{"input": "aebox ii 54m $2050", "output": "Goldshell AE BOX - 54.0mh/t $2050.0"}
+{"input": "s21+ 216t hk/sz $14.8/t $3196.8", "output": "Bitmain Antminer S21+ - 216.0th/t $3196.8"}
+{"input": "m60s+17w 204/206t $17.6 $3625.6", "output": "MicroBT Whatsminer M60S - 206.0th/t $3625.6"}
+{"input": "m60 19w 176/178t 13.6u/t $2420.8", "output": "MicroBT Whatsminer M60 - 178.0th/t $2420.8"}
+{"input": "m50s++22w156/158t $10 $1580.0", "output": "MicroBT Whatsminer M50S - 158.0th/t $1580.0"}
+{"input": "s19kpro 115t 1070u $1070.0", "output": "Bitmain Bitcoin Miner S19K Pro - 115.0th/t $1070.0"}
+{"input": "s21+ 235t 15.1u $3548.5", "output": "Bitmain Antminer S21+ - 235.0th/t $3548.5"}
+{"input": "t21 190t gtd 3090u quasi spot $3090.0", "output": "Bitmain Antminer T21 - 190.0th/t $3090.0"}
+{"input": "aebox  54m $2199", "output": "Goldshell AE BOX - 54.0mh/t $2199.0"}
+{"input": "hk aeo 50m psu$1780 4.15 30 $1780.0", "output": "Iceriver AEO - 50.0mh/t $1780.0"}
+{"input": "dg1+14.4ggtd 8000u $8000.0", "output": "Elphapex DG1+ - 14.4gh/t $8000.0"}
+{"input": "d1 mini2.2g 1600u $1600.0", "output": "Volc Miner D1 Mini - 2.2gh/t $1600.0"}
+{"input": "m60s+17w 204/206t $18.3 $3769.8", "output": "MicroBT Whatsminer M60S - 206.0th/t $3769.8"}
+{"input": "t21 190t gtd 2350u $2350.0", "output": "Bitmain Antminer T21 - 190.0th/t $2350.0"}
+{"input": "hk s21+ 235t $14.3/t $3360.5", "output": "Bitmain Antminer S21+ - 235.0th/t $3360.5"}
+{"input": "m50s 122t 26w $995", "output": "MicroBT Whatsminer M50S - 122.0th/t $995.0"}
+{"input": "m60 19.9w 172t 2530u $2530.0", "output": "MicroBT Whatsminer M60 - 172.0th/t $2530.0"}
+{"input": "dg1+ 13.6g $6700", "output": "Elphapex DG1+ - 13.6gh/t $6700.0"}
+{"input": "s21xp 270t 21.9u $5913.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5913.0"}
+{"input": "m61 19w 208/206/204t 14.2u/t $2896.8", "output": "MicroBT Whatsminer M61 - 204.0th/t $2896.8"}
+{"input": "s19kpro 110t $8/t $880.0", "output": "Bitmain Bitcoin Miner S19K Pro - 110.0th/t $880.0"}
+{"input": "m61 19.9w 194/196/198t $13.5 $2673.0", "output": "MicroBT Whatsminer M61 - 198.0th/t $2673.0"}
+{"input": "dg1+14g 10600u $10600.0", "output": "Elphapex DG1+ - 14.0gh/t $10600.0"}
+{"input": "ks5pro 21t $1600", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1600.0"}
+{"input": "t21 180t gtd 2800u $2800.0", "output": "Bitmain Antminer T21 - 180.0th/t $2800.0"}
+{"input": "ka3 173t 1900u $1900.0", "output": "Bitmain Antminer KA3 - 173.0th/t $1900.0"}
+{"input": "hk s21xp 270t $22.2/t $5994.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5994.0"}
+{"input": "ae 50m $1780", "output": "Goldshell AE BOX - 50.0mh/t $1780.0"}
+{"input": "hk l9 17g $8900", "output": "Bitmain Antminer L9 - 17.0gh/t $8900.0"}
+{"input": "l9 17g 8550u $8550.0", "output": "Bitmain Antminer L9 - 17.0gh/t $8550.0"}
+{"input": "m50s 26w 124t gtd 1120u $1120.0", "output": "MicroBT Whatsminer M50S - 124.0th/t $1120.0"}
+{"input": "dg1+ 14ggtd 8300u $8300.0", "output": "Elphapex DG1+ - 14.0gh/t $8300.0"}
+{"input": "aebox 37m $2650", "output": "Goldshell AE BOX - 37.0mh/t $2650.0"}
+{"input": "s19jxp 136t 1440ugtd $1440.0", "output": "Bitmain Antminer S19 - 136.0th/t $1440.0"}
+{"input": "hk l9 15g $7400", "output": "Bitmain Antminer L9 - 15.0gh/t $7400.0"}
+{"input": "dgmax 6.5g $2500", "output": "Goldshell DG Max - 6.5gh/t $2500.0"}
+{"input": "l9 16g $7800", "output": "Bitmain Antminer L9 - 16.0gh/t $7800.0"}
+{"input": "dg1+ 14g 62500￥", "output": "Elphapex DG1+ - 14.0gh/t ￥62500.0"}
+{"input": "m60 19.9w 166t 2560u $2560.0", "output": "MicroBT Whatsminer M60 - 166.0th/t $2560.0"}
+{"input": "s21+ 225t $14.4 $3240.0", "output": "Bitmain Antminer S21+ - 225.0th/t $3240.0"}
+{"input": "s19pro a 104t $5.7/t $592.8", "output": "Bitmain Antminer S19 Pro - 104.0th/t $592.8"}
+{"input": "s21+hyd 395t $15.1 $5964.5", "output": "Bitmain Antminer S21+ HYD - 395.0th/t $5964.5"}
+{"input": "s21xp 270t 23.2u $6264.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $6264.0"}
+{"input": "m60s+ 17.5w 186/188/190/194t 17.8u $3453.2", "output": "MicroBT Whatsminer M60S - 194.0th/t $3453.2"}
+{"input": "s19 kpro 120t 8.2u/t $984.0", "output": "Bitmain Antminer S19 - 120.0th/t $984.0"}
+{"input": "m60 19.9w 156 164t 12.9u/t $2115.6", "output": "MicroBT Whatsminer M60 - 164.0th/t $2115.6"}
+{"input": "s21+hyd 358t gtd 6500u $6500.0", "output": "Bitmain Antminer S21+ HYD - 358.0th/t $6500.0"}
+{"input": "s21 xp 270t $22.1 $5967.0", "output": "Bitmain Antminer S21 - 270.0th/t $5967.0"}
+{"input": "s21 200t 3700u $3700.0", "output": "Bitmain Antminer S21 - 200.0th/t $3700.0"}
+{"input": "s19kpro115t $7.8 $897.0", "output": "Bitmain Bitcoin Miner S19K Pro - 115.0th/t $897.0"}
+{"input": "dg1+ 14ggtd 7700u $7700.0", "output": "Elphapex DG1+ - 14.0gh/t $7700.0"}
+{"input": "hk ka3 166t $1850", "output": "Bitmain Antminer KA3 - 166.0th/t $1850.0"}
+{"input": "hk l9 17g $8600", "output": "Bitmain Antminer L9 - 17.0gh/t $8600.0"}
+{"input": "s21 xp 270t $21.8 $5886.0", "output": "Bitmain Antminer S21 - 270.0th/t $5886.0"}
+{"input": "m50s 130t 26w $1080", "output": "MicroBT Whatsminer M50S - 130.0th/t $1080.0"}
+{"input": "s21+ 235t gtd 3850u $3850.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3850.0"}
+{"input": "hk s19k pro 115t $7.7/t $885.5", "output": "Bitmain Antminer S19 - 115.0th/t $885.5"}
+{"input": "l9 16g mix april $8050", "output": "Bitmain Antminer L9 - 16.0gh/t $8050.0"}
+{"input": "hk k7 63.5t $2400", "output": "Bitmain Antminer K7 - 63.5th/t $2400.0"}
+{"input": "ks5 20t $1350", "output": "Bitmain Antminer KS5 - 20.0th/t $1350.0"}
+{"input": "l9 16.5g 8300u $8300.0", "output": "Bitmain Antminer L9 - 16.5gh/t $8300.0"}
+{"input": "hk d1 mini pro 2.2g $1530", "output": "Volc Miner D1 Mini - 2.2gh/t $1530.0"}
+{"input": "minidogeiii ￥3500", "output": "Goldshell Mini Doge III - 0h/t ￥3500.0"}
+{"input": "s21xp 270t $21.8 $5886.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5886.0"}
+{"input": "hk s21+ 235t $14.2/t $3337.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3337.0"}
+{"input": "m50s 26w 130t gtd 1160u $1160.0", "output": "MicroBT Whatsminer M50S - 130.0th/t $1160.0"}
+{"input": "e9pro 3780m $1720", "output": "Bitmain Antminer E9 Pro - 3.78gh/t $1720.0"}
+{"input": "t21 180t gtd 2600u $2600.0", "output": "Bitmain Antminer T21 - 180.0th/t $2600.0"}
+{"input": "d1 16.2g 8550u $8550.0", "output": "Volc Miner D1 - 16.2gh/t $8550.0"}
+{"input": "m60 19.9w 176t gtd 2610u $2610.0", "output": "MicroBT Whatsminer M60 - 176.0th/t $2610.0"}
+{"input": "e9pro 3480m $1580", "output": "Bitmain Antminer E9 Pro - 3.48gh/t $1580.0"}
+{"input": "s19xp 141/143t mix 8.8u/t $1258.4", "output": "Bitmain Antminer S19 XP - 143.0th/t $1258.4"}
+{"input": "d1 mini2.2g 1500u $1500.0", "output": "Volc Miner D1 Mini - 2.2gh/t $1500.0"}
+{"input": "l9 17g $8900", "output": "Bitmain Antminer L9 - 17.0gh/t $8900.0"}
+{"input": "m50 112t  720u $720.0", "output": "MicroBT Whatsminer M50 - 112.0th/t $720.0"}
+{"input": "aebox ii 54m $2150", "output": "Goldshell AE BOX - 54.0mh/t $2150.0"}
+{"input": "dg1+ 13g 7600u $7600.0", "output": "Elphapex DG1+ - 13.0gh/t $7600.0"}
+{"input": "l9 17g 8750u $8750.0", "output": "Bitmain Antminer L9 - 17.0gh/t $8750.0"}
+{"input": "m50s 26w 126/128/130t $7.2 $936.0", "output": "MicroBT Whatsminer M50S - 130.0th/t $936.0"}
+{"input": "dg1+ 13g $6600", "output": "Elphapex DG1+ - 13.0gh/t $6600.0"}
+{"input": "m50s++146t 1850u $1850.0", "output": "MicroBT Whatsminer M50S - 146.0th/t $1850.0"}
+{"input": "s19kpro 120t $8.4/t $1008.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $1008.0"}
+{"input": "minidoge+810m $629", "output": "Goldshell Mini Doge+ - 810.0mh/t $629.0"}
+{"input": "hk l9 16g $7550", "output": "Bitmain Antminer L9 - 16.0gh/t $7550.0"}
+{"input": "dg1+ 13g 6600u $6600.0", "output": "Elphapex DG1+ - 13.0gh/t $6600.0"}
+{"input": "hk ka3 173t $1900", "output": "Bitmain Antminer KA3 - 173.0th/t $1900.0"}
+{"input": "m50s 26w 116t gtd 1020u $1020.0", "output": "MicroBT Whatsminer M50S - 116.0th/t $1020.0"}
+{"input": "1346 107t  4.5u/t $481.5", "output": "Canaan Avalon Miner A1346 - 107.0th/t $481.5"}
+{"input": "l9 17g $8400", "output": "Bitmain Antminer L9 - 17.0gh/t $8400.0"}
+{"input": "d1 15.15g $10650u $10650.0", "output": "Volc Miner D1 - 15.15gh/t $10650.0"}
+{"input": "l9 16.5g $7900", "output": "Bitmain Antminer L9 - 16.5gh/t $7900.0"}
+{"input": "m50 118t  710u $710.0", "output": "MicroBT Whatsminer M50 - 118.0th/t $710.0"}
+{"input": "s19xphyd 279t$10.8 $3013.2", "output": "Bitmain Antminer S19 XP Hyd - 279.0th/t $3013.2"}
+{"input": "l9 17g 8500u $8500.0", "output": "Bitmain Antminer L9 - 17.0gh/t $8500.0"}
+{"input": "dg1+14.4ggtd 8800u $8800.0", "output": "Elphapex DG1+ - 14.4gh/t $8800.0"}
+{"input": "t21 190t gtd 2860u $2860.0", "output": "Bitmain Antminer T21 - 190.0th/t $2860.0"}
+{"input": "l9 16g mix april $8250", "output": "Bitmain Antminer L9 - 16.0gh/t $8250.0"}
+{"input": "l9 17g 8400u $8400.0", "output": "Bitmain Antminer L9 - 17.0gh/t $8400.0"}
+{"input": "dg1+14.4g $7350", "output": "Elphapex DG1+ - 14.4gh/t $7350.0"}
+{"input": "s19jxp 130t 1380ugtd $1380.0", "output": "Bitmain Antminer S19 - 130.0th/t $1380.0"}
+{"input": "m50s 26w 120/122/124t $7.1 $880.4", "output": "MicroBT Whatsminer M50S - 124.0th/t $880.4"}
+{"input": "dg1+ 13.5g 7200u $7200.0", "output": "Elphapex DG1+ - 13.5gh/t $7200.0"}
+{"input": "s21+ 216t 4 14.8u $3196.8", "output": "Bitmain Antminer S21+ - 216.0th/t $3196.8"}
+{"input": "s21+ 216t gtd 3410u $3410.0", "output": "Bitmain Antminer S21+ - 216.0th/t $3410.0"}
+{"input": "s19kpro 110t $7.9/t $869.0", "output": "Bitmain Bitcoin Miner S19K Pro - 110.0th/t $869.0"}
+{"input": "m60 19w 174t 2760u $2760.0", "output": "MicroBT Whatsminer M60 - 174.0th/t $2760.0"}
+{"input": "m60 19.9w 168t gtd 2420u $2420.0", "output": "MicroBT Whatsminer M60 - 168.0th/t $2420.0"}
+{"input": "hk l9 15g $7700", "output": "Bitmain Antminer L9 - 15.0gh/t $7700.0"}
+{"input": "l9 16g $7700", "output": "Bitmain Antminer L9 - 16.0gh/t $7700.0"}
+{"input": "dg1+ 14g 8500u $8500.0", "output": "Elphapex DG1+ - 14.0gh/t $8500.0"}
+{"input": "s21pro 234t $20 $4680.0", "output": "Bitmain Antminer S21 Pro - 234.0th/t $4680.0"}
+{"input": "m50s 26w 128t 7.1u $908.8", "output": "MicroBT Whatsminer M50S - 128.0th/t $908.8"}
+{"input": "m61 19.9w 198t gtd 2840u $2840.0", "output": "MicroBT Whatsminer M61 - 198.0th/t $2840.0"}
+{"input": "s19kpro 115t gtd 1080u $1080.0", "output": "Bitmain Bitcoin Miner S19K Pro - 115.0th/t $1080.0"}
+{"input": "e11 9500m  5800u $5800.0", "output": "Ebang Ebit E11 - 9.5gh/t $5800.0"}
+{"input": "m60 19.9w 172t 2430u $2430.0", "output": "MicroBT Whatsminer M60 - 172.0th/t $2430.0"}
+{"input": "hk minidoge3+ 810m $630", "output": "Goldshell Mini Doge III+ - 810.0mh/t $630.0"}
+{"input": "s21pro 245t $20 $4900.0", "output": "Bitmain Antminer S21 Pro - 245.0th/t $4900.0"}
+{"input": "dg1+ 14g 7700u $7700.0", "output": "Elphapex DG1+ - 14.0gh/t $7700.0"}
+{"input": "s21+hyd 358t $15.1 $5405.8", "output": "Bitmain Antminer S21+ HYD - 358.0th/t $5405.8"}
+{"input": "l9 17ggtd 10550u $10550.0", "output": "Bitmain Antminer L9 - 17.0gh/t $10550.0"}
+{"input": "l9 16g 7800u $7800.0", "output": "Bitmain Antminer L9 - 16.0gh/t $7800.0"}
+{"input": "s21+ 225t gtd 3550u $3550.0", "output": "Bitmain Antminer S21+ - 225.0th/t $3550.0"}
+{"input": "m50s 120t 26w 3day$980", "output": "MicroBT Whatsminer M50S - 120.0th/t $980.0"}
+{"input": "hk s21pro 245t $19.1/t $4679.5", "output": "Bitmain Antminer S21 Pro - 245.0th/t $4679.5"}
+{"input": "m61 19.9w 204t gtd 3060u $3060.0", "output": "MicroBT Whatsminer M61 - 204.0th/t $3060.0"}
+{"input": "hk l9 15g $7950", "output": "Bitmain Antminer L9 - 15.0gh/t $7950.0"}
+{"input": "hk s21+ hyd 358t $15.4/t $5513.2", "output": "Bitmain Antminer S21+ Hyd - 358.0th/t $5513.2"}
+{"input": "d1 mini2.2g $15004", "output": "Volc Miner D1 Mini - 2.2gh/t $15004.0"}
+{"input": "dghome1 2.1g $1670", "output": "Goldshell DG Home 1 - 2.1gh/t $1670.0"}
+{"input": "m50s 26w 116t gtd 960u $960.0", "output": "MicroBT Whatsminer M50S - 116.0th/t $960.0"}
+{"input": "m50s 26w 128t gtd 1140u $1140.0", "output": "MicroBT Whatsminer M50S - 128.0th/t $1140.0"}
+{"input": "l9 16g mix april $8700", "output": "Bitmain Antminer L9 - 16.0gh/t $8700.0"}
+{"input": "d1 mini2.2g4 1380u $1380.0", "output": "Volc Miner D1 Mini - 2.2gh/t $1380.0"}
+{"input": "s21+ 216t mix mar $14.6 $3153.6", "output": "Bitmain Antminer S21+ - 216.0th/t $3153.6"}
+{"input": "s19kpro 115t $7.8/t $897.0", "output": "Bitmain Bitcoin Miner S19K Pro - 115.0th/t $897.0"}
+{"input": "l9 15g 7950u $7950.0", "output": "Bitmain Antminer L9 - 15.0gh/t $7950.0"}
+{"input": "s21+ 235t $14.2 $3337.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3337.0"}
+{"input": "m60 19.9w 166t gtd 2380u $2380.0", "output": "MicroBT Whatsminer M60 - 166.0th/t $2380.0"}
+{"input": "l7 8550m used 5350u $5350.0", "output": "Bitmain Antminer L7 - 8.55gh/t $5350.0"}
+{"input": "ks5pro 21t $1630", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1630.0"}
+{"input": "6s21+ 216t mix 14.9u/t $3218.4", "output": "Bitmain Antminer S21+ - 216.0th/t $3218.4"}
+{"input": "m61 19.9w 202t 3240u $3240.0", "output": "MicroBT Whatsminer M61 - 202.0th/t $3240.0"}
+{"input": "aebox  54m $2080", "output": "Goldshell AE BOX - 54.0mh/t $2080.0"}
+{"input": "s21+hyd 358t gtd 6100u $6100.0", "output": "Bitmain Antminer S21+ HYD - 358.0th/t $6100.0"}
+{"input": "s21xp 270t 22u $5940.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5940.0"}
+{"input": "m61 19.9w200/202/204t $13.6 $2774.4", "output": "MicroBT Whatsminer M61 - 204.0th/t $2774.4"}
+{"input": "m61 19.9w 198t gtd 2880u $2880.0", "output": "MicroBT Whatsminer M61 - 198.0th/t $2880.0"}
+{"input": "s19 86t 280/unit $24080.0", "output": "Bitmain Antminer S19 - 86.0th/t $24080.0"}
+{"input": "l9  17g $11000", "output": "Bitmain Antminer L9 - 17.0gh/t $11000.0"}
+{"input": "dg1+ 13g 48000￥", "output": "Elphapex DG1+ - 13.0gh/t ￥48000.0"}
+{"input": "fluminer l1 $2900may $2900.0", "output": "FluMiner Fluminer L1 - 2.9gh/t $2900.0"}
+{"input": "ks5pro 21t $1720", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1720.0"}
+{"input": "m60s18.5w 180t mix $15.2 $2736.0", "output": "MicroBT Whatsminer M60S - 180.0th/t $2736.0"}
+{"input": "s21+hyd 358t $15.2 $5441.6", "output": "Bitmain Antminer S21+ HYD - 358.0th/t $5441.6"}
+{"input": "l9 16.5ggtd 10200u $10200.0", "output": "Bitmain Antminer L9 - 16.5gh/t $10200.0"}
+{"input": "m50s 26w 132t gtd 1090u $1090.0", "output": "MicroBT Whatsminer M50S - 132.0th/t $1090.0"}
+{"input": "a1566 182tgtd 2780u $2780.0", "output": "Canaan Avalon Miner A1566 - 182.0th/t $2780.0"}
+{"input": "s19kpro 110t $7.8/t $858.0", "output": "Bitmain Bitcoin Miner S19K Pro - 110.0th/t $858.0"}
+{"input": "s21+ 235t $15.6 $3666.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3666.0"}
+{"input": "l9 15g $8050", "output": "Bitmain Antminer L9 - 15.0gh/t $8050.0"}
+{"input": "l7 9050m mix june $4050 $4050.0", "output": "Bitmain Antminer L7 - 9.05gh/t $4050.0"}
+{"input": "4s21+ 216t mix 15.1u/t $3261.6", "output": "Bitmain Antminer S21+ - 216.0th/t $3261.6"}
+{"input": "1246 93t  3.1u/t $288.3", "output": "Canaan Avalon Miner A1246 - 93.0th/t $288.3"}
+{"input": "l9 17g 8350u $8350.0", "output": "Bitmain Antminer L9 - 17.0gh/t $8350.0"}
+{"input": "x16p2050m $1599", "output": "Jasminer X16-P - 2.05gh/t $1599.0"}
+{"input": "l9 16g 8050u $8050.0", "output": "Bitmain Antminer L9 - 16.0gh/t $8050.0"}
+{"input": "dg1+ 14g 7900u $7900.0", "output": "Elphapex DG1+ - 14.0gh/t $7900.0"}
+{"input": "hk s21+ hyd 395t $15.4/t $6083.0", "output": "Bitmain Antminer S21+ Hyd - 395.0th/t $6083.0"}
+{"input": "s19kpro 120t 1220u $1220.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $1220.0"}
+{"input": "l9 15g 11450u $11450.0", "output": "Bitmain Antminer L9 - 15.0gh/t $11450.0"}
+{"input": "s21+ 235t $14.4 $3384.0", "output": "Bitmain Antminer S21+ - 235.0th/t $3384.0"}
+{"input": "s19 82t 260/unit $21320.0", "output": "Bitmain Antminer S19 - 82.0th/t $21320.0"}
+{"input": "s21+ 225t 15.1u $3397.5", "output": "Bitmain Antminer S21+ - 225.0th/t $3397.5"}
+{"input": "s19 kpro 120t 7.9u/t $948.0", "output": "Bitmain Antminer S19 - 120.0th/t $948.0"}
+{"input": "aebox  54m $2280", "output": "Goldshell AE BOX - 54.0mh/t $2280.0"}
+{"input": "hk dg home1 2.1g $1470", "output": "Goldshell DG Home1 - 2.1gh/t $1470.0"}
+{"input": "s19 kpro 120t 8.3u/t $996.0", "output": "Bitmain Antminer S19 - 120.0th/t $996.0"}
+{"input": "ks5pro 21t gtd 2100u $2100.0", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $2100.0"}
+{"input": "hk ks7 30t $4350april", "output": "Bitmain Antminer KS7 - 30.0th/t $4350.0"}
+{"input": "s19kpro 115t $7.9/t $908.5", "output": "Bitmain Bitcoin Miner S19K Pro - 115.0th/t $908.5"}
+{"input": "s19kpro 110t gtd 1000u $1000.0", "output": "Bitmain Bitcoin Miner S19K Pro - 110.0th/t $1000.0"}
+{"input": "s21pro 234t 18.2u $4258.8", "output": "Bitmain Antminer S21 Pro - 234.0th/t $4258.8"}
+{"input": "hk m50s 26w/t 128t/132t/134t $7.3/t $934.4", "output": "MicroBT Whatsminer M50S - 128.0th/t $934.4"}
+{"input": "l9 17ggtd 9550u $9550.0", "output": "Bitmain Antminer L9 - 17.0gh/t $9550.0"}
+{"input": "m50s 120t 26w 1day $980", "output": "MicroBT Whatsminer M50S - 120.0th/t $980.0"}
+{"input": "dg1+ 14g $7050", "output": "Elphapex DG1+ - 14.0gh/t $7050.0"}
+{"input": "l9 16.5g 8200u $8200.0", "output": "Bitmain Antminer L9 - 16.5gh/t $8200.0"}
+{"input": "dg1+ 14g 67000￥", "output": "Elphapex DG1+ - 14.0gh/t ￥67000.0"}
+{"input": "k7 60.5t gtd 3000u $3000.0", "output": "Bitmain Antminer K7 - 60.5th/t $3000.0"}
+{"input": "hk s21pro 234t $18.1/t $4235.4", "output": "Bitmain Antminer S21 Pro - 234.0th/t $4235.4"}
+{"input": "m60 19w 172t 2730u $2730.0", "output": "MicroBT Whatsminer M60 - 172.0th/t $2730.0"}
+{"input": "m60 19.9w 168t gtd 2400u $2400.0", "output": "MicroBT Whatsminer M60 - 168.0th/t $2400.0"}
+{"input": "ks5pro 21t $1900", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1900.0"}
+{"input": "hk l9 15g $7300", "output": "Bitmain Antminer L9 - 15.0gh/t $7300.0"}
+{"input": "s19prohyd 184t 2 $7.4 $1361.6", "output": "Bitmain Antminer S19 Pro - 184.0th/t $1361.6"}
+{"input": "l9 17g 9500u $9500.0", "output": "Bitmain Antminer L9 - 17.0gh/t $9500.0"}
+{"input": "s21pro 234t $18.6 $4352.4", "output": "Bitmain Antminer S21 Pro - 234.0th/t $4352.4"}
+{"input": "s19pro a 84t $5.3/t $445.2", "output": "Bitmain Antminer S19 Pro - 84.0th/t $445.2"}
+{"input": "s19exphyd 251t $9.5 $2384.5", "output": "Bitmain Antminer S19 - 251.0th/t $2384.5"}
+{"input": "m50s 134t 26w $1120", "output": "MicroBT Whatsminer M50S - 134.0th/t $1120.0"}
+{"input": "hk l9 16.5g $8600", "output": "Bitmain Antminer L9 - 16.5gh/t $8600.0"}
+{"input": "s21+ 225t $15.5 $3487.5", "output": "Bitmain Antminer S21+ - 225.0th/t $3487.5"}
+{"input": "dg1+13g 9600u $9600.0", "output": "Elphapex DG1+ - 13.0gh/t $9600.0"}
+{"input": "l9 16g 9200u $9200.0", "output": "Bitmain Antminer L9 - 16.0gh/t $9200.0"}
+{"input": "dg1+ 13g gtd 10500u $10500.0", "output": "Elphapex DG1+ - 13.0gh/t $10500.0"}
+{"input": "dghome1 $1176may", "output": "Goldshell DG Home 1 - 1.176gh/t $1176.0"}
+{"input": "s19kpro 120t $8.7 $1044.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $1044.0"}
+{"input": "m50s 26w 128t gtd 1060u $1060.0", "output": "MicroBT Whatsminer M50S - 128.0th/t $1060.0"}
+{"input": "s19 kpro 115t 7.7u/t $885.5", "output": "Bitmain Antminer S19 - 115.0th/t $885.5"}
+{"input": "l9 16g $8500", "output": "Bitmain Antminer L9 - 16.0gh/t $8500.0"}
+{"input": "l9 16g gtd 8900u $8900.0", "output": "Bitmain Antminer L9 - 16.0gh/t $8900.0"}
+{"input": "dg1+ 13g $6630", "output": "Elphapex DG1+ - 13.0gh/t $6630.0"}
+{"input": "m61 19.9w 202t gtd 2960u $2960.0", "output": "MicroBT Whatsminer M61 - 202.0th/t $2960.0"}
+{"input": "s19jpro 117t  600u $600.0", "output": "Bitmain Antminer S19 - 117.0th/t $600.0"}
+{"input": "s21+hyd 395t gtd 7100u $7100.0", "output": "Bitmain Antminer S21+ HYD - 395.0th/t $7100.0"}
+{"input": "t21 180t indonesia $12.7 $2286.0", "output": "Bitmain Antminer T21 - 180.0th/t $2286.0"}
+{"input": "l9 16g mix $8250apr", "output": "Bitmain Antminer L9 - 16.0gh/t $8250.0"}
+{"input": "m50s++22w156/158t $9.8 $1548.4", "output": "MicroBT Whatsminer M50S - 158.0th/t $1548.4"}
+{"input": "l9 16g 8850u $8850.0", "output": "Bitmain Antminer L9 - 16.0gh/t $8850.0"}
+{"input": "dg1+ 13ggtd 7400u $7400.0", "output": "Elphapex DG1+ - 13.0gh/t $7400.0"}
+{"input": "m50s 26w 132t gtd 1180u $1180.0", "output": "MicroBT Whatsminer M50S - 132.0th/t $1180.0"}
+{"input": "l9 16g mix april $8150", "output": "Bitmain Antminer L9 - 16.0gh/t $8150.0"}
+{"input": "t21 190t gtd 3100u $3100.0", "output": "Bitmain Antminer T21 - 190.0th/t $3100.0"}
+{"input": "l7 9050m 6499u $6499.0", "output": "Bitmain Antminer L7 - 9.05gh/t $6499.0"}
+{"input": "dgmax 6.5g $2550", "output": "Goldshell DG Max - 6.5gh/t $2550.0"}
+{"input": "k7 58t gtd 2750u $2750.0", "output": "Bitmain Antminer K7 - 58.0th/t $2750.0"}
+{"input": "m50s 26w 128t 7.4u $947.2", "output": "MicroBT Whatsminer M50S - 128.0th/t $947.2"}
+{"input": "dg1+ 13.5g 8200u $8200.0", "output": "Elphapex DG1+ - 13.5gh/t $8200.0"}
+{"input": "s21+ 225t hk/sz $14.6/t $3285.0", "output": "Bitmain Antminer S21+ - 225.0th/t $3285.0"}
+{"input": "dgmax6.5g gtd$3200", "output": "Goldshell DG Max - 6.5gh/t $3200.0"}
+{"input": "dg1+ 13ggtd 7600u $7600.0", "output": "Elphapex DG1+ - 13.0gh/t $7600.0"}
+{"input": "l9 16.5g $7650", "output": "Bitmain Antminer L9 - 16.5gh/t $7650.0"}
+{"input": "t21 190t indonesia $12.8 $2432.0", "output": "Bitmain Antminer T21 - 190.0th/t $2432.0"}
+{"input": "m60 19w 176/178t 14.2u/t $2527.6", "output": "MicroBT Whatsminer M60 - 178.0th/t $2527.6"}
+{"input": "s19kpro110t 1100ugtd $1100.0", "output": "Bitmain Bitcoin Miner S19K Pro - 110.0th/t $1100.0"}
+{"input": "hk nano3s 6t $229 mar $1374.0", "output": "Avalon Nano3 - 6.0th/t $1374.0"}
+{"input": "l9 16ggtd 10100u $10100.0", "output": "Bitmain Antminer L9 - 16.0gh/t $10100.0"}
+{"input": "ez100 c4000m 3550u $3550.0", "output": "Bombax Miner EZ100-C - 4.0gh/t $3550.0"}
+{"input": "l9  16g $10100", "output": "Bitmain Antminer L9 - 16.0gh/t $10100.0"}
+{"input": "s21+ 216t mix may $14.4 $3110.4", "output": "Bitmain Antminer S21+ - 216.0th/t $3110.4"}
+{"input": "l9 16.5g 8600u $8600.0", "output": "Bitmain Antminer L9 - 16.5gh/t $8600.0"}
+{"input": "m61 19.9w 200t 3210u $3210.0", "output": "MicroBT Whatsminer M61 - 200.0th/t $3210.0"}
+{"input": "s21+ 225t hk/sz $14.1/t $3172.5", "output": "Bitmain Antminer S21+ - 225.0th/t $3172.5"}
+{"input": "dg1+ 13g 52000￥", "output": "Elphapex DG1+ - 13.0gh/t ￥52000.0"}
+{"input": "dg1+ 14g gtd 11600u $11600.0", "output": "Elphapex DG1+ - 14.0gh/t $11600.0"}
+{"input": "aebox ii 54m $2080", "output": "Goldshell AE BOX - 54.0mh/t $2080.0"}
+{"input": "hk s19xp+ hyd 293t $11/t $3223.0", "output": "Bitmain Antminer S19 XP - 293.0th/t $3223.0"}
+{"input": "s21+ 225t gtd 3650u $3650.0", "output": "Bitmain Antminer S21+ - 225.0th/t $3650.0"}
+{"input": "m50 114t  740u $740.0", "output": "MicroBT Whatsminer M50 - 114.0th/t $740.0"}
+{"input": "m50s++148t 1870u $1870.0", "output": "MicroBT Whatsminer M50S - 148.0th/t $1870.0"}
+{"input": "fluminer l1 $2999may $2999.0", "output": "FluMiner Fluminer L1 - 2.999gh/t $2999.0"}
+{"input": "aeboxpro 44m $1750", "output": "Goldshell AE Box Pro - 44.0mh/t $1750.0"}
+{"input": "hk mini3 37.5t $829 mar", "output": "Canaan Avalon Miner Mini 3 - 37.5th/t $829.0"}
+{"input": "a2 226t 3 15u $3390.0", "output": "Bitdeer SealMiner A2 - 226.0th/t $3390.0"}
+{"input": "dg1+ 14.4g $7500", "output": "Elphapex DG1+ - 14.4gh/t $7500.0"}
+{"input": "l9 16g $8100", "output": "Bitmain Antminer L9 - 16.0gh/t $8100.0"}
+{"input": "s19kpro120t 1300ugtd $1300.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $1300.0"}
+{"input": "s21xp 270t 23.3u $6291.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $6291.0"}
+{"input": "m61 19.9w 202t gtd 3000u $3000.0", "output": "MicroBT Whatsminer M61 - 202.0th/t $3000.0"}
+{"input": "l9 16g 8000u $8000.0", "output": "Bitmain Antminer L9 - 16.0gh/t $8000.0"}
+{"input": "hk l9 15g $8050", "output": "Bitmain Antminer L9 - 15.0gh/t $8050.0"}
+{"input": "aebox ii 54m $2200", "output": "Goldshell AE BOX - 54.0mh/t $2200.0"}
+{"input": "s19 kpro 115t 7.6u/t $874.0", "output": "Bitmain Antminer S19 - 115.0th/t $874.0"}
+{"input": "l9 16g 12200u $12200.0", "output": "Bitmain Antminer L9 - 16.0gh/t $12200.0"}
+{"input": "m61 19.9w 202t 2900u $2900.0", "output": "MicroBT Whatsminer M61 - 202.0th/t $2900.0"}
+{"input": "aebox 37m $1550", "output": "Goldshell AE BOX - 37.0mh/t $1550.0"}
+{"input": "hk s21xp 270t $22.1/t $5967.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5967.0"}
+{"input": "m50s++150t 1930u $1930.0", "output": "MicroBT Whatsminer M50S - 150.0th/t $1930.0"}
+{"input": "dg1+ 14g 56000￥", "output": "Elphapex DG1+ - 14.0gh/t ￥56000.0"}
+{"input": "m61 19.9w 202t 3000u $3000.0", "output": "MicroBT Whatsminer M61 - 202.0th/t $3000.0"}
+{"input": "l7 9050m  4100u $4100.0", "output": "Bitmain Antminer L7 - 9.05gh/t $4100.0"}
+{"input": "s19pro+hyd 198t april $7.9 $1564.2", "output": "Bitmain Antminer S19 Pro - 198.0th/t $1564.2"}
+{"input": "dg1+ 14g $7150", "output": "Elphapex DG1+ - 14.0gh/t $7150.0"}
+{"input": "dghome 1 2.1g $1520", "output": "Goldshell DG Home1 - 2.1gh/t $1520.0"}
+{"input": "aebox  54m $2120", "output": "Goldshell AE BOX - 54.0mh/t $2120.0"}
+{"input": "dghome1 $1186may", "output": "Goldshell DG Home 1 - 1.186gh/t $1186.0"}
+{"input": "m61 19.9w 204t 2950u $2950.0", "output": "MicroBT Whatsminer M61 - 204.0th/t $2950.0"}
+{"input": "ka3 173t $2050", "output": "Bitmain Antminer KA3 - 173.0th/t $2050.0"}
+{"input": "e9pro 3280m $1490", "output": "Bitmain Antminer E9 Pro - 3.28gh/t $1490.0"}
+{"input": "e9pro 3380m $1540", "output": "Bitmain Antminer E9 Pro - 3.38gh/t $1540.0"}
+{"input": "l9 17g $9050", "output": "Bitmain Antminer L9 - 17.0gh/t $9050.0"}
+{"input": "l7 8050m used 5050u $5050.0", "output": "Bitmain Antminer L7 - 8.05gh/t $5050.0"}
+{"input": "m50s 26w 134t gtd 1110u $1110.0", "output": "MicroBT Whatsminer M50S - 134.0th/t $1110.0"}
+{"input": "m61 19.9w 204t 3280u $3280.0", "output": "MicroBT Whatsminer M61 - 204.0th/t $3280.0"}
+{"input": "ka3 173t $1950", "output": "Bitmain Antminer KA3 - 173.0th/t $1950.0"}
+{"input": "s21xp+hyd 293t $11.1 $3252.3", "output": "Bitmain Antminer S21+ XP Hyd - 293.0th/t $3252.3"}
+{"input": "s19kpro115t $9.1 $1046.5", "output": "Bitmain Bitcoin Miner S19K Pro - 115.0th/t $1046.5"}
+{"input": "s21pro 234/245t 19.7u $4826.5", "output": "Bitmain Antminer S21 Pro - 245.0th/t $4826.5"}
+{"input": "hk s21+ 216t $14.5/t $3132.0", "output": "Bitmain Antminer S21+ - 216.0th/t $3132.0"}
+{"input": "m50 114t  680u $680.0", "output": "MicroBT Whatsminer M50 - 114.0th/t $680.0"}
+{"input": "hk aeo 50m psu$1760 april $1760.0", "output": "Iceriver AEO - 50.0mh/t $1760.0"}
+{"input": "s19 78t  245u $19110.0", "output": "Bitmain Antminer S19 - 78.0th/t $19110.0"}
+{"input": "l9 15g $7350", "output": "Bitmain Antminer L9 - 15.0gh/t $7350.0"}
+{"input": "dg1 11g  4450u $4450.0", "output": "Elphapex DG1 - 11.0gh/t $4450.0"}
+{"input": "m61 19.9w 204t 2890u $2890.0", "output": "MicroBT Whatsminer M61 - 204.0th/t $2890.0"}
+{"input": "l9 16.5g 8000u $8000.0", "output": "Bitmain Antminer L9 - 16.5gh/t $8000.0"}
+{"input": "s21+ 216t gtd 3560u $3560.0", "output": "Bitmain Antminer S21+ - 216.0th/t $3560.0"}
+{"input": "s21xp 270t $23.6 $6372.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $6372.0"}
+{"input": "s21 xp 270t $22.0 $5940.0", "output": "Bitmain Antminer S21 - 270.0th/t $5940.0"}
+{"input": "s21+ 225t gtd 3600u $3600.0", "output": "Bitmain Antminer S21+ - 225.0th/t $3600.0"}
+{"input": "s19kpro 120t 1300u $1300.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $1300.0"}
+{"input": "s19kpro 120t 1280u $1280.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $1280.0"}
+{"input": "l9 16g 8200u $8200.0", "output": "Bitmain Antminer L9 - 16.0gh/t $8200.0"}
+{"input": "hk k7 63.5t $2450", "output": "Bitmain Antminer K7 - 63.5th/t $2450.0"}
+{"input": "ks5 20t $1400", "output": "Bitmain Antminer KS5 - 20.0th/t $1400.0"}
+{"input": "s21+ 225t $14.2 $3195.0", "output": "Bitmain Antminer S21+ - 225.0th/t $3195.0"}
+{"input": "dg1+ 13g $6760", "output": "Elphapex DG1+ - 13.0gh/t $6760.0"}
+{"input": "hk s21+ 225t $14.3/t $3217.5", "output": "Bitmain Antminer S21+ - 225.0th/t $3217.5"}
+{"input": "s19kpro115t 1220ugtd $1220.0", "output": "Bitmain Bitcoin Miner S19K Pro - 115.0th/t $1220.0"}
+{"input": "s21+ 216t gtd 3460u $3460.0", "output": "Bitmain Antminer S21+ - 216.0th/t $3460.0"}
+{"input": "hk ks5pro 21t $1599", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1599.0"}
+{"input": "hk s21+ hyd 358t $15.1/t $5405.8", "output": "Bitmain Antminer S21+ Hyd - 358.0th/t $5405.8"}
+{"input": "l9 15g 9000u $9000.0", "output": "Bitmain Antminer L9 - 15.0gh/t $9000.0"}
+{"input": "s21 xp 270t $21.9 $5913.0", "output": "Bitmain Antminer S21 - 270.0th/t $5913.0"}
+{"input": "m50s++152t 1950u $1950.0", "output": "MicroBT Whatsminer M50S - 152.0th/t $1950.0"}
+{"input": "hk s19k pro 120t $8.2/t $984.0", "output": "Bitmain Antminer S19 - 120.0th/t $984.0"}
+{"input": "e9pro 3680m $1680", "output": "Bitmain Antminer E9 Pro - 3.68gh/t $1680.0"}
+{"input": "dg1+ 14g 7500u $7500.0", "output": "Elphapex DG1+ - 14.0gh/t $7500.0"}
+{"input": "k7 60.5t gtd 2850u $2850.0", "output": "Bitmain Antminer K7 - 60.5th/t $2850.0"}
+{"input": "ks5pro 21t $1500", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1500.0"}
+{"input": "l9 17g $8350", "output": "Bitmain Antminer L9 - 17.0gh/t $8350.0"}
+{"input": "hk ka3 166th $1750", "output": "Bitmain Antminer KA3 - 166.0th/t $1750.0"}
+{"input": "hk l9 17g $9100", "output": "Bitmain Antminer L9 - 17.0gh/t $9100.0"}
+{"input": "dghome 1 2.1g may $1210", "output": "Goldshell DG Home1 - 2.1gh/t $1210.0"}
+{"input": "m50 29w 114t gtd 910u $910.0", "output": "MicroBT Whatsminer M50 - 114.0th/t $910.0"}
+{"input": "m60 176t 2099u $2099.0", "output": "MicroBT Whatsminer M60 - 176.0th/t $2099.0"}
+{"input": "x16 q 1950m $1270", "output": "Jasminer X16-Q - 1.95gh/t $1270.0"}
+{"input": "s19xp hyd257t  11.4u/tgtd $2929.8", "output": "Bitmain Antminer S19 XP - 257.0th/t $2929.8"}
+{"input": "s21xp 270t hk/ $21.8 $5886.0", "output": "Bitmain Antminer S21 XP - 270.0th/t $5886.0"}
+{"input": "t21 190t $14.0 $2660.0", "output": "Bitmain Antminer T21 - 190.0th/t $2660.0"}
+{"input": "ks5 20t $1450", "output": "Bitmain Antminer KS5 - 20.0th/t $1450.0"}
+{"input": "s19kpro115t $7.7 $885.5", "output": "Bitmain Bitcoin Miner S19K Pro - 115.0th/t $885.5"}
+{"input": "s19kpro120t $9.4 $1128.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $1128.0"}
+{"input": "dghome 1 2.1g $1470", "output": "Goldshell DG Home1 - 2.1gh/t $1470.0"}
+{"input": "s19kpro 120t $8.2 $984.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $984.0"}
+{"input": "ks5pro 21t $1599", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1599.0"}
+{"input": "dg1+ 14.4g $7350", "output": "Elphapex DG1+ - 14.4gh/t $7350.0"}
+{"input": "s19kpro120t $8 $960.0", "output": "Bitmain Bitcoin Miner S19K Pro - 120.0th/t $960.0"}
+{"input": "l9 16g $7900", "output": "Bitmain Antminer L9 - 16.0gh/t $7900.0"}
+{"input": "d1 mini 2.2g $1550", "output": "Volc Miner D1 Mini - 2.2gh/t $1550.0"}
+{"input": "l9 16g 9300u $9300.0", "output": "Bitmain Antminer L9 - 16.0gh/t $9300.0"}
+{"input": "m50s 122t 26w 3day$995", "output": "MicroBT Whatsminer M50S - 122.0th/t $995.0"}
+{"input": "s21+ 216t $14.8 $3196.8", "output": "Bitmain Antminer S21+ - 216.0th/t $3196.8"}
+{"input": "hk m50s 128t/130t/132t $7.2/t $921.6", "output": "MicroBT Whatsminer M50S - 128.0th/t $921.6"}
+{"input": "m60 19.9w 174t gtd 2530u $2530.0", "output": "MicroBT Whatsminer M60 - 174.0th/t $2530.0"}
+{"input": "m60s+17w 200/202t $17.5 $3535.0", "output": "MicroBT Whatsminer M60S - 202.0th/t $3535.0"}
+{"input": "dg1+ 13.5g 7600u $7600.0", "output": "Elphapex DG1+ - 13.5gh/t $7600.0"}
+{"input": "ks5 20t $1620", "output": "Bitmain Antminer KS5 - 20.0th/t $1620.0"}
+{"input": "m60 19.9w 176t 2510u $2510.0", "output": "MicroBT Whatsminer M60 - 176.0th/t $2510.0"}
+{"input": "hk l9 16g $8450", "output": "Bitmain Antminer L9 - 16.0gh/t $8450.0"}
+{"input": "l9 16g mix $8150apr", "output": "Bitmain Antminer L9 - 16.0gh/t $8150.0"}
+{"input": "m50s 120t 26w $980", "output": "MicroBT Whatsminer M50S - 120.0th/t $980.0"}
+{"input": "l7 8800m 5300u $5300.0", "output": "Bitmain Antminer L7 - 8.8gh/t $5300.0"}
+{"input": "m50s 26w 134t gtd 1200u $1200.0", "output": "MicroBT Whatsminer M50S - 134.0th/t $1200.0"}
+{"input": "hk ks5pro 21t $1550", "output": "Bitmain Antminer KS5 Pro - 21.0th/t $1550.0"}

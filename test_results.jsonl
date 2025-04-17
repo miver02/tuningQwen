@@ -1,0 +1,43 @@
+{
+  "accuracy": 1.0,
+  "correct": 5,
+  "total": 5,
+  "avg_time": 2.0970487117767336,
+  "results": [
+    {
+      "input": "s19exp hyd 251t $2320",
+      "expected": "Bitmain Antminer S19 - 251.0th/t $2320.0",
+      "generated": "Bitmain Antminer S19 - 251.0th/t $2320.0",
+      "correct": true,
+      "time": 2.295552968978882
+    },
+    {
+      "input": "s21xp 270t 23.3u $6291.0",
+      "expected": "Bitmain Antminer S21 XP - 270.0th/t $6291.0",
+      "generated": "Bitmain Antminer S21 XP - 270.0th/t $6291.0",
+      "correct": true,
+      "time": 2.133709192276001
+    },
+    {
+      "input": "d1 16.2g 8550u $8550.0",
+      "expected": "Volc Miner D1 - 16.2gh/t $8550.0",
+      "generated": "Volc Miner D1 - 16.2gh/t $8550.0",
+      "correct": true,
+      "time": 1.7886245250701904
+    },
+    {
+      "input": "s21+ 216t mix april $14.5 $3132.0",
+      "expected": "Bitmain Antminer S21+ - 216.0th/t $3132.0",
+      "generated": "Bitmain Antminer S21+ - 216.0th/t $3132.0",
+      "correct": true,
+      "time": 2.123668670654297
+    },
+    {
+      "input": "m50s+24w142/144/146t $9 $1314.0",
+      "expected": "MicroBT Whatsminer M50S - 146.0th/t $1314.0",
+      "generated": "MicroBT Whatsminer M50S - 146.0th/t $1314.0",
+      "correct": true,
+      "time": 2.143688201904297
+    }
+  ]
+}
