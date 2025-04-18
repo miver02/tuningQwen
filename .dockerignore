@@ -2,6 +2,3 @@
 !main.py
 !requirements.txt
 !Dockerfile
-!datasets/
-!datasets/base_model/**
-!datasets/final_model/adapter_config.json
