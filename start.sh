@@ -1,0 +1,1 @@
+docker run -d --name qianwen-container -p 8000:8000 -v "$(pwd)/datasets:/app/datasets" qianwen-finetuning
